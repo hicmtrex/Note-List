@@ -1,0 +1,16 @@
+@import '@webpixels/css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #f6f9ff !important;
+  font-family: 'Roboto', sans-serif;
+}
+.main {
+  min-height: 82vh;
+}
